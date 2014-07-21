@@ -1,3 +1,5 @@
 TODO:
-Integrate Compton as integrated and default compositor and optimize compton to xfwm4
-Bug fixes
+*Integrate Compton as integrated and default compositor and optimize compton to xfwm4
+*Bug fixes
+*Fix issues with window snapping including less sensetivity and the option to turn it off.
+*Fix the issue with some windows in maximizing and minimizing placement being off screen
